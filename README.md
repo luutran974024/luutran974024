@@ -1,10 +1,16 @@
-👋 Hi, I’m @luutran974024
-👀 I’m interested in NLP, Generative AI, and Application Development
-🌱 I’m currently learning advanced NLP techniques and AI for real-world problem-solving
-💞️ I’m looking to collaborate on AI projects that impact user experience and operational efficiency
-📫 Reach me at luuthingoctran2001@gmail.com or LinkedIn
-😄 Pronouns: She/Her
-⚡ Fun fact: I love creating knowledge maps and AI-powered diagnostic tools!
+👋 Hi, I’m **Tran Luu**
+👀 I’m interested in **NLP, Generative AI, and Application Development**  
+
+🌱 I’m currently learning **advanced NLP techniques and AI for real-world problem-solving**  
+
+💞️ I’m looking to collaborate on **AI projects that impact user experience and operational efficiency**  
+
+📫 Reach me at **[luuthingoctran2001@gmail.com](mailto:luuthingoctran2001@gmail.com)** or on [LinkedIn](https://linkedin.com/in/ltnt)  
+
+😄 Pronouns: **She/Her**  
+
+⚡ Fun fact: **I love creating knowledge maps and AI-powered diagnostic tools!**
+
 
 <!---
 ![GitHub](https://img.shields.io/badge/GitHub-3776AB?style=for-the-badge&logo=github&logoColor=white)
