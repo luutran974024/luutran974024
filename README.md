@@ -9,7 +9,6 @@
 
 😄 Pronouns: **She/Her**  
 
-⚡ Fun fact: **I love creating knowledge maps and AI-powered diagnostic tools!**
 
 
 <!---
